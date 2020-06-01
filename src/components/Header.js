@@ -86,7 +86,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
 
       const {
         site: {
-          siteMetadata: { headerTitle, githubUrl, helpUrl, tweetText, logo, headerLinks },
+          siteMetadata: { headerTitle,  helpUrl, tweetText, logo, headerLinks },
         },
       } = data;
 

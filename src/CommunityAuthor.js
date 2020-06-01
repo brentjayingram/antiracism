@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CommunityAuthor = ({ name, imageUrl, twitterUrl, githubUrl, description }) => {
+const CommunityAuthor = ({ name, imageUrl, twitterUrl,  description }) => {
   return (
     <>
       <h2 className="communitySection">About the community author</h2>
@@ -20,15 +20,7 @@ const CommunityAuthor = ({ name, imageUrl, twitterUrl, githubUrl, description })
                 />
               </a>
             ) : null}
-            {githubUrl ? (
-              <a href={githubUrl} target="_blank" rel="noopener noreferrer">
-                <img
-                  src="https://storage.googleapis.com/graphql-engine-cdn.hasura.io/learn-hasura/assets/social-media/github-icon.svg"
-                  alt="Github Icon"
-                  aria-label="Github"
-                />
-              </a>
-            ) : null}
+           
           </div>
           <div className="authorDesc">{description}</div>
         </div>

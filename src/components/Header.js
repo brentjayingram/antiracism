@@ -60,7 +60,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         site {
           siteMetadata {
             headerTitle
-            githubUrl
             helpUrl
             tweetText
             logo {
@@ -159,9 +158,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </a>
                   </li>
                 ) : null}
-                {tweetText !== '' || githubUrl !== '' ? (
-                  <li className="divider hiddenMobile"></li>
-                ) : null}
+                
                 {config.header.social ? (
                   <li className={'hiddenMobile'}>
                     <ul
@@ -170,17 +167,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     ></ul>
                   </li>
                 ) : null}
-                {githubUrl !== '' ? (
-                  <li className={'githubBtn'}>
-                    <GitHubButton
-                      href={githubUrl}
-                      data-show-count="true"
-                      aria-label="Star on GitHub"
-                    >
-                      Star
-                    </GitHubButton>
-                  </li>
-                ) : null}
+                
                 <li>
                   <DarkModeSwitch
                     isDarkThemeActive={isDarkThemeActive}

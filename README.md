@@ -54,7 +54,6 @@ Open `config.js` for templating variables. Broadly configuration is available fo
 
 - `header` config for site header configuration like
     - `title` - The title that appears on the top left
-    - `githubUrl` - The Github URL for the docs website
     - `helpUrl` - Help URL for pointing to resources
     - `tweetText` - Tweet text
     - `links` - Links on the top right

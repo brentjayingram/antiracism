@@ -6,10 +6,9 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png',
+    logo: 'https://github.com/bingr001/antiracism/blob/master/src/components/images/Anti-Racism%20Docs.png',
     logoLink: 'https://antiracism.netlify.app',
-    title:
-      "<a href='https://antiracism.netlify.app'><img class='img-responsive' src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='Learn logo' /></a>",
+    title: null,
     
     helpUrl: '',
     tweetText: '',

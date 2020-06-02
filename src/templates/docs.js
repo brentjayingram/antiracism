@@ -20,9 +20,7 @@ export default class MDXRuntimeTest extends Component {
     const {
       allMdx,
       mdx,
-      site: {
-        siteMetadata: { docsLocation, title },
-      },
+     
     } = data;
 
     const gitHub = require('../components/images/github.svg');
@@ -109,12 +107,7 @@ export default class MDXRuntimeTest extends Component {
 
 export const pageQuery = graphql`
   query($id: String!) {
-    site {
-      siteMetadata {
-        title
-        docsLocation
-      }
-    }
+  
     mdx(fields: { id: { eq: $id } }) {
       fields {
         id

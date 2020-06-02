@@ -38,17 +38,17 @@ const config = {
     collapsedNav: [
       // add trailing slash if enabled above
     ],
-    links: [{ text: 'Created by Brent Jay Ingram', link: 'https://brentjingram.com' }],
+    links: [{ text: 'Created by Brent Jay Ingram', link: 'https://www.brentjingram.com/' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<a href='/'>Resources for the American Church </a>",
   },
   siteMetadata: {
     title: 'Anti-Racism Docs',
     description: 'Resources for the American Church',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    
     
   },
   pwa: {

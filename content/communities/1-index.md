@@ -1,6 +1,6 @@
 ---
-title: "Sub Page for communities"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+title: "Be the bridge"
+metaTitle: "Be the bridge"
 metaDescription: "This is the meta description for this page"
 ---
 

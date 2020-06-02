@@ -1,6 +1,6 @@
 ---
-title: "Sub Page"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+title: "Be the bridge 2"
+metaTitle: "Be the bridge 2"
 metaDescription: "This is the meta description for this page"
 ---
 

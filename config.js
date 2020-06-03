@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://github.com/bingr001/antiracism/blob/master/src/components/images/antiracism-full-logo.png?raw=true',
+    logo: 'https://raw.githubusercontent.com/bingr001/antiracism/master/src/components/images/antiracism-logo.png',
     logoLink: '/',
     title:
       "Anti-Racism Docs",

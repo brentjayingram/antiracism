@@ -6,10 +6,10 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: '/',
-    logoLink: 'https://antiracism.netlify.app',
+    logo: 'https://github.com/bingr001/antiracism/blob/master/src/components/images/Anti-Racism%20Docs.png?raw=true',
+    logoLink: '/',
     title:
-      "<a href='https://antiracism.netlify.app'><img class='img-responsive' src='https://github.com/bingr001/antiracism/blob/master/src/components/images/Anti-Racism%20Docs.png' alt='Learn logo' /></a>",
+      "",
     
     helpUrl: '',
     tweetText: '',

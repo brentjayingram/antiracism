@@ -4,21 +4,21 @@ metaTitle: "Leaders and Consultants"
 metaDescription: "Leaders and Consultants for Anti-racism"
 ---
 
-[Pastor Eric Mason](https://www.pastoremase.com/)
+[Andre Henry](http://andrehenry.co/)
 
-Pastor of Epiphany Church in Philadelphia and author of Woke Church.
+Andre Henry is an award-winning singer-songwriter contending for the world that ought to be.
 
-[Michelle Higgins](https://twitter.com/AfroRising)
+[Brittany Packett](https://brittanypacknett.com/bio)
 
-Head of Faith for Justice https://www.faithforjustice.org/ and 1/3 podcast host of Truth's Table.
+Brittany Packnett Cunningham is a leader at the intersection of culture and justice.
 
 [Dr. Bryan Lorrits](https://bryanloritts.com/)
 
 Dr. Bryan Loritts is the president and founder of the Kainos Movement, and the author of several books.
 
-[Justin Giboney](https://andcampaign.org/justin-giboney)
+[Bryan Stevenson](https://eji.org/bryan-stevenson/)
 
-Attorney and political strategist in Atlanta, GA. He encourages Christians to hold both Biblical Values & Social Justice in a nonpartisan way.
+Bryan Stevenson is a widely acclaimed public interest lawyer who has dedicated his career to helping the poor, the incarcerated, and the condemned.
 
 [Dr. Christina Edmonson](https://www.christinaedmondson.com/)
 
@@ -28,20 +28,32 @@ Christina holds a PhD in Counseling Psychology and is 1/3 podcast host of Truth'
 
 Corey is an Author, Artist and Activist who encourages Believers to engage in Justice, Faith and Culture.
 
-
 [Ekemini Uwan](https://www.sistamatictheology.com/)
 
 Ekemini Uwan is a public theologian and 1/3 podcast host of Truth's Table.
 
-[Andre Henry](http://andrehenry.co/)
+[Pastor Eric Mason](https://www.pastoremase.com/)
 
-Andre Henry is an award-winning singer-songwriter contending for the world that ought to be.
+Pastor of Epiphany Church in Philadelphia and author of Woke Church.
 
-[Bryan Stevenson](https://eji.org/bryan-stevenson/)
+[Justin Giboney](https://andcampaign.org/justin-giboney)
 
-Bryan Stevenson is a widely acclaimed public interest lawyer who has dedicated his career to helping the poor, the incarcerated, and the condemned.
+Attorney and political strategist in Atlanta, GA. He encourages Christians to hold both Biblical Values & Social Justice in a nonpartisan way.
 
-[Brittany Packett](https://brittanypacknett.com/bio)
+[Michelle Higgins](https://twitter.com/AfroRising)
 
-Brittany Packnett Cunningham is a leader at the intersection of culture and justice.
+Head of Faith for Justice https://www.faithforjustice.org/ and 1/3 podcast host of Truth's Table.
+
+
+
+
+
+
+
+
+
+
+
+
+
 

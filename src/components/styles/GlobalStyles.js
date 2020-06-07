@@ -76,7 +76,7 @@ export const baseStyles = injectGlobal`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #101217;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -134,7 +134,7 @@ export const baseStyles = injectGlobal`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #001933;
+    background-color: #1D2129;
   }
 
   .headerWrapper {
@@ -257,7 +257,7 @@ export const baseStyles = injectGlobal`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #101217;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -374,7 +374,7 @@ export const baseStyles = injectGlobal`
     font-family: 'Poppins';
     font-size: 18px;
     font-weight: 600;
-    color: #001934;
+    color: #101217;
     display: flex;
     align-items: center;
   }
@@ -384,7 +384,7 @@ export const baseStyles = injectGlobal`
   }
 
   .sidebarTitle a {
-    color: #001934;
+    color: #101217;
   }
 
   .greenCircle {
@@ -398,14 +398,14 @@ export const baseStyles = injectGlobal`
   .headerNav {
     font-family: 'Roboto';
     padding: 0px 24px;
-    color: #001933;
+    color: #1D2129;
     font-size: 16px;
     font-weight: 500;
     line-height: 1em;
   }
 
   .headerNav a {
-    color: #001933;
+    color: #1D2129;
     text-decoration: none;
   }
 
@@ -450,14 +450,14 @@ export const baseStyles = injectGlobal`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #355CCA;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
     fill: #fff !important;
   }
   .active .collapser > svg > path {
-    fill: #001933 !important;
+    fill: #1D2129 !important;
   }
 
   .firstLevel ul .item ul .item {
@@ -470,7 +470,7 @@ export const baseStyles = injectGlobal`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #355CCA;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -481,12 +481,12 @@ export const baseStyles = injectGlobal`
   }
 
   .showFrontLine .item > a:hover {
-    background-color: #001933;
+    background-color: #1D2129;
   }
 
   .showFrontLine .active > a {
     /* color: #fff; */
-    background-color: #001933;
+    background-color: #1D2129;
   }
 
   .sideBarUL .item .item {
@@ -508,7 +508,7 @@ export const baseStyles = injectGlobal`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #355CCA !important;
     color: #fff;
   }
 
@@ -734,13 +734,13 @@ export const baseStyles = injectGlobal`
 
   @media (max-width: 767px) {
     .formElement svg path {
-      fill: #001934;
+      fill: #101217;
     }
     .visibleMobileView {
       display: block !important;
     }
     .searchInput {
-      color: #001934;
+      color: #101217;
     }
     .socialWrapper {
       position: absolute;

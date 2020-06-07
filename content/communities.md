@@ -5,7 +5,7 @@ metaDescription: "Below are some communities that can you join and learn more an
 
 ---
 
-Below are some communities that can you join and learn more and be encouraged in creating a future with less racism.
+### Communities that you can join and learn more and be encouraged in creating a future with less racism.
 
 
 [Pass The Mic](https://www.facebook.com/groups/RAANpassthemic/)

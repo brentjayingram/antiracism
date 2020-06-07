@@ -3,6 +3,7 @@ title: "Leaders and Consultants"
 metaTitle: "Leaders and Consultants"
 metaDescription: "Leaders and Consultants for Anti-racism"
 ---
+### Leaders and Consultants for Anti-racism
 
 [Andre Henry](http://andrehenry.co/)
 

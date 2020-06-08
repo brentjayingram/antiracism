@@ -48,7 +48,7 @@ const config = {
     title: 'Anti-Racism Docs',
     description: 'Resources for the American Church',
     ogImage: null,
-    
+    facicon: 'src/components/images/favicon.png'
     
   },
   pwa: {

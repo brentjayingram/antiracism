@@ -43,7 +43,7 @@ Attorney and political strategist in Atlanta, GA. He encourages Christians to ho
 
 [Michelle Higgins](https://twitter.com/AfroRising)
 
-Head of [Faith for Justice] (https://www.faithforjustice.org/) and 1/3 podcast host of [Truth's Table](https://www.truthstable.com/).
+Head of [Faith for Justice](https://www.faithforjustice.org/) and 1/3 podcast host of [Truth's Table](https://www.truthstable.com/).
 
 
 

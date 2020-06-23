@@ -61,7 +61,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
           siteMetadata {
             headerTitle
             helpUrl
-            tweetText
             logo {
               link
               image
@@ -147,7 +146,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   </li>
                 ) : null}
 
-                {tweetText !== '' ? (
+                {/* {tweetText !== '' ? (
                   <li>
                     <a
                       href={'https://twitter.com/intent/tweet?&text=' + tweetText}
@@ -157,7 +156,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                       <img className={'shareIcon'} src={twitter} alt={'Twitter'} />
                     </a>
                   </li>
-                ) : null}
+                ) : null} */}
                 
                 {config.header.social ? (
                   <li className={'hiddenMobile'}>

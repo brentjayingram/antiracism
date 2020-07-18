@@ -14,7 +14,7 @@ This community is an extension of the podcast, Pass The Mic which speaks into th
 
 [Be the Bridge](https://www.facebook.com/beabridgebuilder/)
 
-This is a coalition that empowers people and culture toward racial healing, equity and reconciliation.
+This is a coalition that empowers people and culture toward racial healing, equity and reconciliation. You can learn how to create groups within your community, work or church to discuss issues of race in a healthy way.
 
 
 

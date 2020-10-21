@@ -16,3 +16,7 @@ We do not have the luxury of either focusing on social justice or values-based i
 [Be the Bridge](https://bethebridge.com/)
 
 We empower poeple and culture toward racial healing, equity and reconciliation.
+
+[Color of Change](https://colorofchange.org/)
+
+Color Of Change is the nation’s largest online racial justice organization.

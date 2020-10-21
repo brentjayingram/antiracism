@@ -12,3 +12,7 @@ The Witness is a black Christian collective that engages issues of religion, rac
 [And Campaign](https://andcampaign.org/)
 
 We do not have the luxury of either focusing on social justice or values-based issues; both affect the foundation of our communities and are inseparably tied together.
+
+[Be the Bridge](https://bethebridge.com/)
+
+We empower poeple and culture toward racial healing, equity and reconciliation.

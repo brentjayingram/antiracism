@@ -45,6 +45,10 @@ Attorney and political strategist in Atlanta, GA. He encourages Christians to ho
 
 Head of [Faith for Justice](https://www.faithforjustice.org/) and 1/3 podcast host of [Truth's Table](https://www.truthstable.com/).
 
+[Phil Vischer](https://philvischer.com)
+Author and filmmaker best known for VeggieTales has spoken from the corner of an Evangelical to address race and racism on his podcast [The Holy Post](https://www.holypost.com/)
+
+
 
 
 

@@ -5,9 +5,7 @@ metaDescription: "Leaders and Consultants for Anti-racism"
 ---
 ### Leaders and Consultants for Anti-racism
 
-[Andre Henry](http://andrehenry.co/)
 
-Andre Henry is an award-winning singer-songwriter contending for the world that ought to be.
 
 [Brittany Packett](https://brittanypacknett.com/bio)
 
@@ -24,10 +22,6 @@ Bryan Stevenson is a widely acclaimed public interest lawyer who has dedicated h
 [Dr. Christina Edmonson](https://www.christinaedmondson.com/)
 
 Christina holds a PhD in Counseling Psychology and is 1/3 podcast host of [Truth's Table](https://www.truthstable.com/).
-
-[Corey Evan Leak](https://coreyevanleak.com/)
-
-Corey is an Author, Artist and Activist who encourages Believers to engage in Justice, Faith and Culture and host of the podcast [Existential](http://coreyevanleak.com/existential-podcast/).
 
 [Ekemini Uwan](https://www.sistamatictheology.com/)
 
